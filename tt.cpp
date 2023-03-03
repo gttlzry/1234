@@ -2,7 +2,12 @@
 using namespace std;
 
 int main(){
-	cout<<"sad"<<endl;
+	cout<<"asdjha"<<endl;
+	cout<<"ASDAD"<<endl;
+
+	cout<<"  sad"<<endl;
+
+
 	return 0;
 
 }
